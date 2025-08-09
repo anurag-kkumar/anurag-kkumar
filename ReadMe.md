@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech 3rd-year student working on a web development project integrated with AI/ML. Skilled in JavaScript, Tailwind CSS, React, Node.js, MongoDB. Learning AI/ML fundamentals and improving in DSA for coding interviews. Passionate about frontend development and AI integration. Fun fact: can spend hours playing chess and still call it a “quick break.” ♟️
+B.Tech 3rd-year student working on a web development project integrated with AI/ML. Skilled in JavaScript, Tailwind CSS, React, Node.js, MongoDB. Learning AI/ML fundamentals and improving in DSA for coding interviews. Passionate about frontend development and AI integration. Fun fact: can spend hours playing chess and still call it a “quick break.” ♟
 
 
 ## 🌐 Socials:
