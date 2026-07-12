@@ -1,38 +1,83 @@
 # 💫 About Me:
-B.Tech 3rd-year student working on a web development project integrated with AI/ML. Skilled in JavaScript, Tailwind CSS, React, Node.js, MongoDB. Learning AI/ML fundamentals and improving in DSA for coding interviews. Passionate about frontend development and AI integration. Fun fact: can spend hours playing chess and still call it a “quick break.” ♟
 
+🎓 **B.Tech 3rd-year student** passionate about building modern web applications with **AI/ML integration**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuragkumar~/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ MirrorEastern9386) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnuragK71449642) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragkr4500@gmail.com) 
+💻 Currently working on full-stack projects using **React, Node.js, MongoDB, and Tailwind CSS** while exploring the possibilities of **Artificial Intelligence and Machine Learning**.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anurag-kkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anurag-kkumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-kkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Skills:
+- Frontend Development
+- Backend Development
+- REST APIs
+- AI-powered Web Applications
+- Data Structures & Algorithms
+
+🌱 Currently learning:
+- AI/ML fundamentals
+- Advanced JavaScript & React patterns
+- DSA for coding interviews
+
+♟ Fun fact: I can spend hours playing chess and still call it a "quick break."
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anurag-kkumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name:anurag-kkumar
+# 🌐 Socials:
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragkumar~/)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AnuragK71449642)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/MirrorEastern9386)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragkr4500@gmail.com)
+
+
+---
+
+# 💻 Tech Stack:
+
+### Languages:
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend:
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database:
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI/ML:
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=anurag-kkumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-kkumar&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-kkumar&theme=tokyonight&hide_border=true&layout=compact)
+
+
+---
+
+# 🐍 Contribution Snake:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anurag-kkumar/anurag-kkumar/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anurag-kkumar/anurag-kkumar/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anurag-kkumar/anurag-kkumar/output/github-snake.svg">
+</picture>
+
+
+---
+
+# 📈 Profile Views:
+
+![](https://visitcount.itsvg.in/api?id=anurag-kkumar&icon=0&color=0)
