@@ -49,12 +49,6 @@
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### AI/ML:
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
----
 
 # 📊 GitHub Stats:
 
@@ -74,10 +68,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anurag-kkumar/anurag-kkumar/output/github-snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anurag-kkumar/anurag-kkumar/output/github-snake.svg">
 </picture>
-
-
----
-
-# 📈 Profile Views:
-
-![](https://visitcount.itsvg.in/api?id=anurag-kkumar&icon=0&color=0)
