@@ -57,6 +57,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-kkumar&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-kkumar&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anurag-kkumar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
