@@ -1,37 +1,34 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 
-🎓 **B.Tech 3rd-year student** passionate about building modern web applications with **AI/ML integration**.
+<h3 align="center">
+Building Full-Stack Applications • Exploring AI/ML • Solving Problems One Commit at a Time
+</h3>
 
-💻 Currently working on full-stack projects using **React, Node.js, MongoDB, and Tailwind CSS** while exploring the possibilities of **Artificial Intelligence and Machine Learning**.
-
-🚀 Skills:
-- Frontend Development
-- Backend Development
-- REST APIs
-- AI-powered Web Applications
-- Data Structures & Algorithms
-
-🌱 Currently learning:
-- AI/ML fundamentals
-- Advanced JavaScript & React patterns
-- DSA for coding interviews
-
-♟ Fun fact: I can spend hours playing chess and still call it a "quick break."
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anurag-kkumar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-# 🌐 Socials:
+## 🚀 Who Am I?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragkumar~/)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AnuragK71449642)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/MirrorEastern9386)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragkr4500@gmail.com)
+```java
+public class Anurag {
 
+    String role = "B.Tech CSE | Final Year";
+    String focus = "Full Stack Development + AI";
+    String currentlyBuilding = "Scalable Web Applications";
+    String learning = "Spring Boot • AI/ML • System Design";
 
----
+    void motto() {
+        System.out.println(
+            "Build. Break. Learn. Repeat."
+        );
+    }
+}
+```
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,22 +47,28 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=anurag-kkumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-kkumar&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-kkumar&theme=tokyonight&hide_border=true&layout=compact)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anurag-kkumar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ---
 
-# 🐍 Contribution Snake:
+# Contribution Snake:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anurag-kkumar/anurag-kkumar/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anurag-kkumar/anurag-kkumar/output/github-snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anurag-kkumar/anurag-kkumar/output/github-snake.svg">
 </picture>
+
+
+# Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragkumar~/)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AnuragK71449642)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/MirrorEastern9386)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragkr4500@gmail.com)
+
